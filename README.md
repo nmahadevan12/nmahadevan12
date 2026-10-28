@@ -1,7 +1,7 @@
 # Nikhil Mahadevan
 
-EE + CE at UGA (GPA 3.93, May 2028)
-Embedded Firmware · Analog Hardware · Flight Software
+EE + CE at UGA (GPA 3.93, May 2028)<br>
+Embedded Firmware · Analog Hardware · Flight Software<br>
 Open to Summer 2027 Internships
 
 **Portfolio:** [nmahadevan12.github.io](https://nmahadevan12.github.io/) · **LinkedIn:** [nmahadevan12](https://www.linkedin.com/in/nmahadevan12)
