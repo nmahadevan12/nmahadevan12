@@ -14,5 +14,6 @@ Open to Summer 2027 Internships
 | [Light-Tracker](https://github.com/nmahadevan12/Light-Tracker) | Dual-axis DC-motor light tracker on ATmega328P in bare-metal |
 | [MIS](https://github.com/nmahadevan12/MIS) | Raspberry Pi multifunction instrumentation / function generator |
 | [RISC-V](https://github.com/nmahadevan12/RISC-V) | WIP RV32I C emulator (golden model; not finished) |
+| [RPi3-Bare-Metal] (https://github.com/nmahadevan12/raspberry-pi-3b-bare-metal) | Bare-metal AArch64 firmware and custom UART bring-up for Raspberry Pi 3B |
 
 Flight software at UGA’s Small Satellite Research Lab (NASA F Prime / Zephyr on STM32).
